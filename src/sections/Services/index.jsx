@@ -7,9 +7,9 @@ const Services = () => {
   return (
     <SectionContainer id={"serviços"} secName={"services-sec"}>
       <SectionHead
-        head={"serviços"}
+        head={"Nossos Produtos"}
         text={
-          "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias"
+          "Uma linha que valoriza a diversidade e o bem-estar!"
         }
       />
       <ServicesBlock />

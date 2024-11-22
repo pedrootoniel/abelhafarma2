@@ -18,19 +18,19 @@ export const paragraphs = [
 ];
 export const cards = [
   {
-    title: "Lorem Ipsum",
-    text: "Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat",
-    number: "01",
+    title: "Agora também no canal Farma!",
+    text: "Com mais de 34 anos de mercado, somos referência em beleza e autocuidado, oferecendo produtos de extrema qualidade.",
+    number: "Abelha Rainha",
   },
   {
-    title: "Repellat Nihil",
-    text: "Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest",
-    number: "02",
+    title: "Somos referência",
+    text: "Líder no Centro-Oeste e uma das maiores marcas de vendas por catálogo do Brasil, em 2021 expandimos para o canal Farma, trazendo ainda mais confiança aos consumidores.",
+    number: "Abelha Rainha",
   },
   {
-    title: "Ad ad velit qui",
-    text: "Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis",
-    number: "03",
+    title: "Explore nossa linha de produtos",
+    text: "com foco em produtos desenvolvidos especialmente para farmácias e drogarias de todo o país.",
+    number: "Abelha Rainha",
   },
 ];
 export const sponsors = [

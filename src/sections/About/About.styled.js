@@ -20,4 +20,5 @@ export const GrayImage = styled(Image)`
     filter: grayscale(0);
     transform: scale(1.3);
   }
+  
 `;

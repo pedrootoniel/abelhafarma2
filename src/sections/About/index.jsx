@@ -6,7 +6,7 @@ import AboutSponsor from "./AboutSponsor";
 import {AiOutlineCheckCircle} from "react-icons/ai";
 import {RowReversedStyled} from "./About.styled";
 import {paragraphs} from "./aboutData";
-import aboutImage from "../../assets/about.jpg";
+import aboutImage from "../../assets/about.png";
 
 const About = () => {
   return (

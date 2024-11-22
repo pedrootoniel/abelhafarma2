@@ -7,6 +7,7 @@ export const HeaderStyled = styled.header`
     theme === themeList.light ? "var(--ds-light-0)" : "var(--ds-dark-1)"};
   box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
   z-index: 98;
+  font-family: Latinotype;
   &.active {
     position: fixed;
     width: 100%;
@@ -56,20 +57,20 @@ export const HeaderStyled = styled.header`
         @media (max-width: 992px) {
           position: fixed;
           margin: auto;
-          top: 0;
-          left: 0;
+          top: -600px;
+          left: 120px;
           bottom: 0;
           right: 0;
           z-index: 99;
-          width: calc(100vw - 40px);
-          height: calc(100vh - 40px);
+          width: 250px;
+          height: 250px;
           border-radius: 10px;
           display: flex;
           align-items: center;
           justify-content: center;
           flex-direction: column;
           background-color: var(--ds-light-0);
-          box-shadow: rgba(0, 0, 0, 0.9) 7px 7px 7px 100px;
+  
         }
         a {
           @media (max-width: 992px) {

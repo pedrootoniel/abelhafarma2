@@ -6,32 +6,32 @@ import {BiBuilding} from "react-icons/bi";
 export const services = [
   {
     iconName: IoNewspaperOutline,
-    title: "Lorem Ipsum",
+    title: "Hidratantes",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
     iconName: IoIosPeople,
-    title: "Sed ut perspiciatis",
+    title: "Dermopés",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
     iconName: CiBasketball,
-    title: "Magni Dolores",
+    title: "Antiacne",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
     iconName: TbPaperclip,
-    title: "Nemo Enim",
+    title: "Protetor Solar",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
     iconName: TbWorld,
-    title: "Dele cardo",
+    title: "Rosa Mosqueta",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
     iconName: BiBuilding,
-    title: "Divera don",
+    title: "Desodorante",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
 ];
