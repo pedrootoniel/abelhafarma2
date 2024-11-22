@@ -16,7 +16,7 @@ const Home = () => {
       }}
     >
       <Container className="home-container animate__animated animate__lightSpeedInLeft">
-        <h1>AR FARMA</h1>
+        <h1>ABELHA RAINHA FARMA</h1>
         <h2>
         Descubra a linha de produtos que une inovação, acessibilidade e cuidado. Ideal para farmácias que oferecem o melhor em cosméticos e cuidados pessoais aos seus clientes.
         </h2>

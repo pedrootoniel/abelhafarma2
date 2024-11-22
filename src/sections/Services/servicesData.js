@@ -1,36 +1,33 @@
-import {IoIosPeople} from "react-icons/io";
-import {IoNewspaperOutline} from "react-icons/io5";
-import {CiBasketball} from "react-icons/ci";
-import {TbPaperclip, TbWorld} from "react-icons/tb";
-import {BiBuilding} from "react-icons/bi";
+import {IoIosCheckbox} from "react-icons/io";
+
 export const services = [
   {
-    iconName: IoNewspaperOutline,
+    iconName: IoIosCheckbox,
     title: "Hidratantes",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
-    iconName: IoIosPeople,
+    iconName: IoIosCheckbox,
     title: "Dermopés",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
-    iconName: CiBasketball,
+    iconName: IoIosCheckbox,
     title: "Antiacne",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
-    iconName: TbPaperclip,
+    iconName: IoIosCheckbox,
     title: "Protetor Solar",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
-    iconName: TbWorld,
+    iconName: IoIosCheckbox,
     title: "Rosa Mosqueta",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },
   {
-    iconName: BiBuilding,
+    iconName: IoIosCheckbox,
     title: "Desodorante",
     text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
   },

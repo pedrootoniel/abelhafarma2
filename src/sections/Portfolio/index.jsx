@@ -7,9 +7,9 @@ const Portfolio = () => {
   return (
     <SectionContainer id={"portfolio"} secName={"portfolio-sec"}>
       <SectionHead
-        head={"portfolio"}
+        head={"Produtos campeões"}
         text={
-          "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias"
+          "Abelha Rainha Farma: parceira ideal para a sua farmácia!"
         }
       />
       <PortfolioBlock />
