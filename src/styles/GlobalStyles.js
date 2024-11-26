@@ -22,6 +22,6 @@ export const GlobalStyles = createGlobalStyle`
 body {
   color: ${({theme: {theme}}) =>
     theme === themeList.light ? "var(--ds-dark-3)" : "var(--ds-light-1)"};
-    font-family: Latinotype;
+    font-family: Latinotype - Igna Sans UltraLigh;
 }
 `;
