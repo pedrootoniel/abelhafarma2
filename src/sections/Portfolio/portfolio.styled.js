@@ -21,7 +21,7 @@ export const PortfolioBlockStyled = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-around;
-    max-width: 400px;
+    max-width: 720px;
     padding: 15px;
     margin-bottom: 25px;
     border-radius: 20px;

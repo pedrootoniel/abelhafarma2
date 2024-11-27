@@ -32,7 +32,7 @@ const PortfolioBlock = () => {
   );
   const filterPhotos = (category) => {
     //Check The all Items category
-    if (category === "all") {
+    if (category === "todas") {
       setPhotos(portfolioPhotos);
       return;
     }

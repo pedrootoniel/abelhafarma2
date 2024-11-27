@@ -10,10 +10,13 @@ import {
 const FooterSquare = () => {
   return (
     <FooterSquareStyled>
-      <h3>Abelha Rainha Farma</h3>
-      <p className="mb-1">Telefone: +55 62 9999-9999</p>
+    
+     <h3>SIGA A GENTE</h3>
+      {/*  <p className="mb-1">Telefone: +55 62 9999-9999</p>
       <p className="mb-1">Email: Abelha Farma</p>
-      <ul>
+       */}
+      <ul> 
+     
         
         <a href="/">
         <li>
