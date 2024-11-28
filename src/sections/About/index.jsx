@@ -18,7 +18,7 @@ const About = () => {
              AR FARMA
             </h3>
             <p className="fst-italic">
-             A Abelha Rainha nasceu com este propósito: proporcionar momentos de autocuidado por meio do desenvolvimento de produtos de excelente qualidade, que valorizam a beleza da diversidade e o autoamor.
+             A Abelha Rainha Farma nasceu com este propósito: proporcionar momentos de autocuidado por meio do desenvolvimento de produtos de excelente qualidade, que valorizam a beleza da diversidade e o autoamor.
             </p>
             <ul>
               {paragraphs.map((par, idx) => (

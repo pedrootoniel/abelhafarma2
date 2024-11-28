@@ -8,10 +8,10 @@ const AboutBlocks = () => {
   return (
     <div className="cards-block">
       <Row>
-        {cards.map(({number, title, text}, idx) => (
+        {cards.map(({image, title, text}, idx) => (
           <Col sm={12} md={6} lg={4} className="mb-2" key={idx}>
             <AnimationOnScroll animateIn="animate__fadeIn">
-              <CardItem cardNumber={number} cardTitle={title} cardText={text} />
+              <CardItem cardNumber={image} cardTitle={title} cardText={text} />
             </AnimationOnScroll>
           </Col>
         ))}

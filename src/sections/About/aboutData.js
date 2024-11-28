@@ -20,17 +20,17 @@ export const cards = [
   {
     title: "Agora também no canal Farma!",
     text: "Com mais de 34 anos de mercado, somos referência em beleza e autocuidado, oferecendo produtos de extrema qualidade.",
-    number: "Abelha Rainha",
+    image: "Abelha Rainha",
   },
   {
     title: "Somos referência",
     text: "Líder no Centro-Oeste e uma das maiores marcas de vendas por catálogo do Brasil, em 2021 expandimos para o canal Farma, trazendo ainda mais confiança aos consumidores.",
-    number: "Abelha Rainha",
+    image: "Abelha Rainha",
   },
   {
     title: "Explore nossa linha de produtos",
     text: "com foco em produtos desenvolvidos especialmente para farmácias e drogarias de todo o país.",
-    number: "Abelha Rainha",
+    image: "Abelha Rainha",
   },
 ];
 export const sponsors = [

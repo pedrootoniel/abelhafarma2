@@ -15,10 +15,11 @@ const Home = () => {
         backgroundAttachment: "fixed",
       }}
     >
-      <Container className="home-container animate__animated animate__lightSpeedInLeft">
+      <Container className="home-container">
         <h1>ABELHA RAINHA FARMA</h1>
         <h2>
-        Descubra a linha de produtos que une inovação, acessibilidade e cuidado. Ideal para farmácias que oferecem o melhor em cosméticos e cuidados pessoais aos seus clientes.
+        Descubra a linha de produtos que une inovação, acessibilidade e cuidado.
+        Ideal para farmácias que oferecem o melhor em cosméticos e cuidados pessoais aos seus clientes.
         </h2>
         <CustomButton type="btn-on-img">Saiba mais</CustomButton>
       </Container>
