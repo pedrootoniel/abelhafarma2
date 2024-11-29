@@ -62,7 +62,7 @@ const PortfolioBlock = () => {
           onClick={({index}) => setIndex(index)}
         />
       </AnimationOnScroll>
-
+    
       <Lightbox
         slides={slides}
         open={index >= 0}

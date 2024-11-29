@@ -59,4 +59,18 @@ export const CardItemStyled = styled.div`
     transition: all 0.5s;
     color: var(--ds-light-1);
   }
-`;
+  
+`
+export const GrayImage = styled(Image)`
+  margin-left: 160px;
+  transition: all 0.5s;
+  cursor: pointer;
+  filter: grayscale(100);
+  @media (max-width: 991px) {
+    padding: 10px 0;
+  }
+  &:hover {
+    filter: grayscale(0);
+    transform: scale(1.3);
+  }
+`

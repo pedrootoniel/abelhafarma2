@@ -4,6 +4,10 @@ import sponser3 from "../../assets/client-3.png";
 import sponser4 from "../../assets/client-4.png";
 import sponser5 from "../../assets/client-5.png";
 import sponser6 from "../../assets/client-6.png";
+import sponser7 from "../../assets/client-7.png";
+import sponser8 from "../../assets/client-8.png";
+import sponser9 from "../../assets/client-9.png";
+
 export const paragraphs = [
   "Hidratantes",
   "Desodorante",
@@ -20,17 +24,17 @@ export const cards = [
   {
     title: "Agora também no canal Farma!",
     text: "Com mais de 34 anos de mercado, somos referência em beleza e autocuidado, oferecendo produtos de extrema qualidade.",
-    image: "Abelha Rainha",
+    img: sponser7,
   },
   {
     title: "Somos referência",
     text: "Líder no Centro-Oeste e uma das maiores marcas de vendas por catálogo do Brasil, em 2021 expandimos para o canal Farma, trazendo ainda mais confiança aos consumidores.",
-    image: "Abelha Rainha",
+    img: sponser8,
   },
   {
     title: "Explore nossa linha de produtos",
     text: "com foco em produtos desenvolvidos especialmente para farmácias e drogarias de todo o país.",
-    image: "Abelha Rainha",
+    img: sponser9,
   },
 ];
 export const sponsors = [

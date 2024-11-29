@@ -10,6 +10,7 @@ export const RowReversedStyled = styled(Row)`
 
 //Sponsors
 export const GrayImage = styled(Image)`
+  margin-left: 160px;
   transition: all 0.5s;
   cursor: pointer;
   filter: grayscale(100);
