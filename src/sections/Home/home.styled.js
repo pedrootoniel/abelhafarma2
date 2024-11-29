@@ -20,14 +20,14 @@ export const HomeSectionStyled = styled.section`
     h1 {
       font-size: 25px;
       font-weight: 700;
-      width: 350px;
+   
     }
     h2 {
       color: #eee;
       font-family: "Raleway", sans-serif;
       font-size: 20px;
       margin-bottom: 30px;
-      width: 350px;
+      width: 650px;
     }
   }
 `;
