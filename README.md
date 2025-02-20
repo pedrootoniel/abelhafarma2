@@ -1,4 +1,4 @@
-# Day Landing Page
+# abelha farma Landing Page
 It is a simple Landing page made with REACT to practice the basics like 
  - Create Reusable Components
  - hooks (useState, useEffect, useContext, useReducer)
